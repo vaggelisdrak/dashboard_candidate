@@ -13,11 +13,6 @@ import MonthlyRevenue from '@/components/widgets/MonthlyRevenue';
 import NewFollower from '@/components/widgets/NewFollower';
 import PlatformAds from '@/components/widgets/PlatformAds';
 import PopularPages from '@/components/widgets/PopularPages';
-import ProfileCard from '@/components/widgets/ProfileCard';
-import ProfileInfo from '@/components/widgets/ProfileInfo';
-import ProjectActifity from '@/components/widgets/ProjectActifity';
-import ProjectCard from '@/components/widgets/ProjectCard';
-import ProjectsCard from '@/components/widgets/ProjectsCard';
 import ProjectStatistic from '@/components/widgets/ProjectStatistic';
 import RecentActifities from '@/components/widgets/RecentActifities';
 import RecentTask from '@/components/widgets/RecentTask';
@@ -32,6 +27,5 @@ import Tags from '@/components/widgets/Tags';
 
 export { AdsPlatform, AdsStatistic, Banner, CmsStatistic, DealsCard, EmailStatistic, 
   History, HostingBanner, HostingCard, LaunchDate, MonthlyRevenue, NewFollower, 
-  PlatformAds, PopularPages, ProfileCard, ProfileInfo, ProjectActifity, ProjectCard, 
-  ProjectsCard, ProjectStatistic, RecentActifities, RecentTask, SalesFunnel, 
+  PlatformAds, PopularPages, ProjectStatistic, RecentActifities, RecentTask, SalesFunnel, 
   SalesSmallBox, Schedules, SmallBox, SmallBoxHosting, SmallboxMarketing, SmallCard, Tags  }
