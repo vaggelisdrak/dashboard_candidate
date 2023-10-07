@@ -11,12 +11,6 @@ export default function Sidebar(props) {
         { id: 101, title: 'CMS', url: '/dashboard/home/cms', },
         { id: 102, title: 'Analytics', url: '/dashboard/home/analytics', },
         { id: 103, title: 'Ecommerce', url: '/dashboard/home/ecommerce', },
-        { id: 104, title: 'Projects', url: '/dashboard/home/projects', },
-        { id: 105, title: 'CRM', url: '/dashboard/home/crm', },
-        { id: 106, title: 'Hosting', url: '/dashboard/home/hosting', },
-        { id: 107, title: 'Saas', url: '/dashboard/home/saas', },
-        { id: 108, title: 'Sales', url: '/dashboard/home/sales', },
-        { id: 109, title: 'Marketing', url: '/dashboard/home/marketing', },
       ], 
     },
   ]
